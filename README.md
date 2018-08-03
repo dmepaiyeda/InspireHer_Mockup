@@ -1,5 +1,6 @@
 # InspireHer_Mockup
 An interactive mockup that breaks down the components of InspireHer. 
+Feel free to check it out here: https://pr.to/T3EKU8/
 
 # The Problem
 1. High school female students are unaware of job opportunities 
