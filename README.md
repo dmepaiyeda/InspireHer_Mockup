@@ -1,5 +1,5 @@
 # InspireHer_Mockup
-An interactive mockup that breaks down the components of InspireHer. 
+An interactive mockup that breaks down the components of InspireHer. <br>
 Feel free to check it out here: https://pr.to/T3EKU8/
 
 # The Problem
